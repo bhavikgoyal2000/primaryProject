@@ -31,7 +31,7 @@
         <dependency>
             <groupId>com.pathfactorycorp</groupId>
             <artifactId>aem-pathfactorycorp-connector-cloud</artifactId>
-            <version>2.0.2-SNAPSHOT</version>
+            <version>1.0.0</version>
         </dependency>
     </dependencies>
 
