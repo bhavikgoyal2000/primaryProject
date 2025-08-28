@@ -46,8 +46,8 @@
     <distributionManagement>
         <repository>
             <id>github</id>
-            <name>GitHub Packages</name>
-            <url>https://maven.pkg.github.com/bhavikgoyal2000/pf-aem-connector</url>
+            <name>GitHub Packages 1</name>
+            <url>https://maven.pkg.github.com/bhavikgoyal2000/primaryProject</url>
         </repository>
     </distributionManagement>
 
